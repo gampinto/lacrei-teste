@@ -109,3 +109,71 @@ Watching for file changes with StatReloader
 "GET /api/token HTTP/1.1" 301 0
 Method Not Allowed: /api/token/
 "GET /api/token/ HTTP/1.1" 405 7609
+"POST /api/token/ HTTP/1.1" 200 8059
+Unauthorized: /api/profissionais/
+"GET /api/profissionais/ HTTP/1.1" 401 5181
+Unauthorized: /api/profissionais/
+"GET /api/profissionais/ HTTP/1.1" 401 5181
+Method Not Allowed: /api/token/
+"GET /api/token/ HTTP/1.1" 405 7609
+"POST /api/token/ HTTP/1.1" 200 8059
+Unauthorized: /api/profissionais/
+"GET /api/profissionais/ HTTP/1.1" 401 5181
+Not Found: /profissionais/
+"GET /profissionais/ HTTP/1.1" 404 2723
+Unauthorized: /api/profissionais/
+"GET /api/profissionais/ HTTP/1.1" 401 5181
+Unauthorized: /api/profissionais/
+"GET /api/profissionais/ HTTP/1.1" 401 5181
+Unauthorized: /api/profissionais/
+"GET /api/profissionais/ HTTP/1.1" 401 5181
+Method Not Allowed: /api/token/
+"GET /api/token/ HTTP/1.1" 405 7609
+- Broken pipe from ('127.0.0.1', 50083)
+"POST /api/token/ HTTP/1.1" 200 8059
+"GET /admin/ HTTP/1.1" 200 6099
+"GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+"GET /static/admin/css/base.css HTTP/1.1" 304 0
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+"GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+"GET /static/admin/js/theme.js HTTP/1.1" 304 0
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+"GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+Unauthorized: /api/profissionais/
+"GET /api/profissionais/ HTTP/1.1" 401 5181
+Not Found: /api/
+"GET /api/ HTTP/1.1" 404 3672
+"GET /api/token/refresh HTTP/1.1" 301 0
+Method Not Allowed: /api/token/refresh/
+"GET /api/token/refresh/ HTTP/1.1" 405 7424
+Bad Request: /api/token/refresh/
+"POST /api/token/refresh/ HTTP/1.1" 400 7523
+Method Not Allowed: /api/token/
+"GET /api/token/ HTTP/1.1" 405 7609
+"POST /api/token/ HTTP/1.1" 200 8059
+Method Not Allowed: /api/token/refresh/
+"GET /api/token/refresh/ HTTP/1.1" 405 7424
+"POST /api/token/refresh/ HTTP/1.1" 200 7603
+Bad Request: /api/token/refresh/
+"POST /api/token/refresh/ HTTP/1.1" 400 7523
+"POST /api/token/refresh/ HTTP/1.1" 200 7603
+Unauthorized: /api/profissionais/
+"GET /api/profissionais/ HTTP/1.1" 401 176
+Unauthorized: /api/consultas/
+"GET /api/consultas/ HTTP/1.1" 401 172
+"GET /api/profissionais/ HTTP/1.1" 200 52
+Unauthorized: /api/profissionais/
+"POST /api/profissionais/ HTTP/1.1" 401 58
+Bad Request: /api/profissionais/
+"POST /api/profissionais/ HTTP/1.1" 400 110
+"POST /api/profissionais/ HTTP/1.1" 201 112
+"GET /api/profissionais/ HTTP/1.1" 200 164
+"GET /api/profissionais/4/ HTTP/1.1" 200 112
+"PUT /api/profissionais/4/ HTTP/1.1" 200 122
+Bad Request: /api/profissionais/4/
+"PATCH /api/profissionais/4/ HTTP/1.1" 400 110
+Bad Request: /api/profissionais/4/
+"PUT /api/profissionais/4/ HTTP/1.1" 400 110
+"DELETE /api/profissionais/4/ HTTP/1.1" 204 0
