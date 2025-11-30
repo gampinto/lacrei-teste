@@ -177,3 +177,5 @@ Bad Request: /api/profissionais/4/
 Bad Request: /api/profissionais/4/
 "PUT /api/profissionais/4/ HTTP/1.1" 400 110
 "DELETE /api/profissionais/4/ HTTP/1.1" 204 0
+Not Found: /api/profissionais/4/
+"GET /api/profissionais/4/ HTTP/1.1" 404 53
