@@ -1,0 +1,111 @@
+Watching for file changes with StatReloader
+Unauthorized: /api/profissionais/
+"GET /api/profissionais/ HTTP/1.1" 401 5181
+"GET /static/rest_framework/css/default.css HTTP/1.1" 304 0
+"GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 304 0
+"GET /static/rest_framework/css/prettify.css HTTP/1.1" 304 0
+"GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 304 0
+"GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 304 0
+"GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 304 0
+"GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 304 0
+"GET /static/rest_framework/js/csrf.js HTTP/1.1" 304 0
+"GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 304 0
+"GET /static/rest_framework/js/default.js HTTP/1.1" 304 0
+"GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 304 0
+Unauthorized: /api/profissionais/
+"GET /api/profissionais/ HTTP/1.1" 401 5181
+Unauthorized: /api/profissionais/
+"GET /api/profissionais/ HTTP/1.1" 401 5181
+Unauthorized: /api/profissionais/
+"GET /api/profissionais/ HTTP/1.1" 401 5181
+C:\Users\Gabriel\Desktop\lacrei-teste\api\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Unauthorized: /api/profissionais/
+"GET /api/profissionais/ HTTP/1.1" 401 5181
+C:\Users\Gabriel\Desktop\lacrei-teste\api\settings.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/profissionais/ HTTP/1.1" 200 9521
+"GET /api/consultas/ HTTP/1.1" 200 8879
+"GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 304 0
+"GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 304 0
+"GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 304 0
+"GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 304 0
+"GET /static/rest_framework/js/csrf.js HTTP/1.1" 304 0
+"GET /static/rest_framework/css/prettify.css HTTP/1.1" 304 0
+"GET /static/rest_framework/js/default.js HTTP/1.1" 304 0
+"GET /static/rest_framework/css/default.css HTTP/1.1" 304 0
+"GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 304 0
+"GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 304 0
+"GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 304 0
+"GET /api/profissionais/ HTTP/1.1" 200 9521
+"GET /api/consultas/ HTTP/1.1" 200 8879
+"GET /api/profissionais/ HTTP/1.1" 200 9521
+"POST /api/profissionais/ HTTP/1.1" 201 9825
+"GET /api/consultas/ HTTP/1.1" 200 8969
+Bad Request: /api/consultas/
+"POST /api/consultas/ HTTP/1.1" 400 9097
+"POST /api/consultas/ HTTP/1.1" 201 8999
+"GET /api/profissionais/ HTTP/1.1" 200 9906
+"GET /api/consultas/ HTTP/1.1" 200 9129
+"GET /api/consultas/1 HTTP/1.1" 301 0
+"GET /api/consultas/1/ HTTP/1.1" 200 10482
+"DELETE /api/consultas/1/ HTTP/1.1" 200 10304
+Not Found: /api/consultas/1/
+"DELETE /api/consultas/1/ HTTP/1.1" 404 10379
+"GET /api/profissionais/ HTTP/1.1" 200 9906
+"GET /static/rest_framework/img/grid.png HTTP/1.1" 304 0
+Not Found: /api/profissionais/1/
+"GET /api/profissionais/1/ HTTP/1.1" 404 10956
+Not Found: /api/profissionais/1/
+"DELETE /api/profissionais/1/ HTTP/1.1" 404 10959
+Not Found: /api/profissionais/1/
+"DELETE /api/profissionais/1/ HTTP/1.1" 404 10959
+"GET /api/profissionais/3 HTTP/1.1" 301 0
+"GET /api/profissionais/3/ HTTP/1.1" 200 11399
+"DELETE /api/profissionais/3/ HTTP/1.1" 200 10880
+Not Found: /api/profissionais/3/
+"DELETE /api/profissionais/3/ HTTP/1.1" 404 10959
+Not Found: /api/profissionais/2/
+"GET /api/profissionais/2/ HTTP/1.1" 404 10956
+C:\Users\Gabriel\Desktop\lacrei-teste\api\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2301
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2352
+Not Found: /
+"GET / HTTP/1.1" 404 2301
+C:\Users\Gabriel\Desktop\lacrei-teste\api\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2301
+Not Found: /api
+"GET /api HTTP/1.1" 404 2328
+Unauthorized: /api/profissionais/
+"GET /api/profissionais/ HTTP/1.1" 401 5181
+Unauthorized: /api/profissionais/
+"GET /api/profissionais/ HTTP/1.1" 401 5181
+"GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 304 0
+"GET /static/rest_framework/js/csrf.js HTTP/1.1" 304 0
+"GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 304 0
+"GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 304 0
+"GET /static/rest_framework/css/default.css HTTP/1.1" 304 0
+"GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 304 0
+"GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 304 0
+"GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 304 0
+"GET /static/rest_framework/css/prettify.css HTTP/1.1" 304 0
+"GET /static/rest_framework/js/default.js HTTP/1.1" 304 0
+"GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 304 0
+"GET /static/rest_framework/img/grid.png HTTP/1.1" 304 0
+Not Found: /api/token
+"GET /api/token HTTP/1.1" 404 3325
+C:\Users\Gabriel\Desktop\lacrei-teste\api\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /api/token
+"GET /api/token HTTP/1.1" 404 3325
+C:\Users\Gabriel\Desktop\lacrei-teste\api\urls.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/token HTTP/1.1" 301 0
+Method Not Allowed: /api/token/
+"GET /api/token/ HTTP/1.1" 405 7609
